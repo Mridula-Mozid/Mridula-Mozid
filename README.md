@@ -1,4 +1,5 @@
-Hi there! 👋  I’m Mridula. I’m an enthusiastic developer focused on blending technology and art to create fresh and meaningful works. With a strong foundation in Java development, content management, and freelance design, I bring a unique, multidisciplinary approach to every project—whether it's building user-friendly applications, designing impactful branding, or tutoring students in subjects I’m passionate about.
+# Hi there! 👋  I’m Mridula.
+I’m an enthusiastic developer focused on blending technology and art to create fresh and meaningful works. With a strong foundation in Java development, content management, and freelance design, I bring a unique, multidisciplinary approach to every project—whether it's building user-friendly applications, designing impactful branding, or tutoring students in subjects I’m passionate about.
 
 As a Content Management Coordinator with IEEE BUP WIE, I lead key initiatives that engage and inspire a team of 50+ members. My focus is on content and event management. I’m dedicated to bridging gender gaps in STEM, inspiring creativity, and pushing boundaries, particularly in engineering and technology.
 
