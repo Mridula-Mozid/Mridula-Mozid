@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Mridula-Mozid/Mridula-Mozid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +10,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+Hi, I’m Mridula. I’m an enthusiastic developer focused on blending technology and art to create fresh and meaningful works. With a strong foundation in Java development, content management, and freelance design, I bring a unique, multidisciplinary approach to every project—whether it's building user-friendly applications, designing impactful branding, or tutoring students in subjects I’m passionate about.
+
+As a Content Management Coordinator with IEEE BUP WIE, I lead key initiatives that engage and inspire a team of 50+ members. My focus is on content and event management. I’m dedicated to bridging gender gaps in STEM, inspiring creativity, and pushing boundaries, particularly in engineering and technology.
+
+Currently, I’m expanding my skill set by learning Flutter for web app development and diving deeper into full-stack capabilities to enhance my technical expertise.
+
+Beyond my work in tech, I am an avid reader, exploring a variety of genres (except horror!) and sharing reviews and creative content on lifestyle, books, and art through my Instagram handle @mrimoscope.
+
+Let’s connect and collaborate on opportunities that bring creativity and technology together!
