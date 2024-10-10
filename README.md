@@ -40,6 +40,7 @@ If you have experience with **Figma**, I’d love to hear from you—I'm just st
 
 - **Instagram**: [@mrimoscope](https://www.instagram.com/mrimoscope) (where I post about lifestyle, books, and art).
 - **Email**: mridulamozid@gmail.com
+- **Edu Email**: mridula2254901037@student.bup.edu.bd
 - **LinkedIn**: [Mridula Mozid](https://www.linkedin.com/in/mridula-mozid/)
 - **Facebook**: [Mridula Mozid](https://www.facebook.com/MridulaMozid.Aunkita)
 
