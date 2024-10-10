@@ -1,21 +1,52 @@
-# Hi there! 👋  I’m Mridula.
-I’m an enthusiastic developer focused on blending technology and art to create fresh and meaningful works. With a strong foundation in Java development, content management, and freelance design, I bring a unique, multidisciplinary approach to every project—whether it's building user-friendly applications, designing impactful branding, or tutoring students in subjects I’m passionate about.
+# Hi there! 👋 I’m Mridula.
 
-As a Content Management Coordinator with IEEE BUP WIE, I lead key initiatives that engage and inspire a team of 50+ members. My focus is on content and event management. I’m dedicated to bridging gender gaps in STEM, inspiring creativity, and pushing boundaries, particularly in engineering and technology.
+I’m an enthusiastic **developer** and **designer** passionate about blending **technology** and **art** to create meaningful, user-friendly, and visually compelling projects. As a student majoring in **Information & Communication Engineering (ICE)**, I’m constantly expanding my skills and learning along the way.
 
-Currently, I’m expanding my skill set by learning Flutter for web app development and diving deeper into full-stack capabilities to enhance my technical expertise.
+With a strong foundation in **Java development**, **content management**, and **freelance design**, I approach every project with a unique, multidisciplinary perspective—whether it's building functional applications, designing impactful branding, or tutoring students in subjects I’m passionate about.
 
-Beyond my work in tech, I am an avid reader, exploring a variety of genres (except horror!) and sharing reviews and creative content on lifestyle, books, and art through my Instagram handle @mrimoscope.
+---
 
-Let’s connect and collaborate on opportunities that bring creativity and technology together!
+## 🚀 What I Do
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on honestly nothing. However, I plan to work on a project using flutter and Figma, as I'm learning both.
-- 🌱 I’m currently learning Flutter & will soon start my Figma journey.
-- 👯 I’m looking to collaborate on OOP-based projects, especially in Java.
-- 🤔 I’m looking for help with Figma.
-- 💬 Ask me about anything and I'll try to answer with all the knowledge I have. 
-- 📫 How to reach me: Follow me on my socials or mail me @mridulamozid@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: Well, I have a huge tbr that keeps growing every single day!
+- I’ve worked on projects like an **online banking console application** and an **e-commerce website** using Java, and I’m currently diving into **Flutter** to expand my web app development skills.
+As a **Content Management Coordinator** at **IEEE BUP WIE** and a **freelance designer**, I lead initiatives for a team of 50+ members, focusing on **content creation**, **event management**, and **branding** for small businesses. I’m passionate about blending **creativity with functionality** and **bridging the gender gap in STEM**, particularly in engineering and technology.
+
+---
+
+## 🌱 Learning Along the Way
+
+As a student, I’m constantly evolving. Right now, I’m:
+
+- 📚 Learning **Flutter** for web app development.
+- 🎨 Preparing to explore **Figma** to enhance my design skills.
+- 🔍 Strengthening my **full-stack development** capabilities.
+
+---
+
+## 👯 Let’s Collaborate!
+
+I’m always eager to collaborate on:
+
+- **Java OOP-based projects**.
+- Projects that combine **tech and design**.
+- Any opportunity to push my creative boundaries while growing my technical expertise.
+
+If you have experience with **Figma**, I’d love to hear from you—I'm just starting my journey there and looking for advice!
+
+---
+
+## 📫 Let’s Connect
+
+- **Instagram**: [@mrimoscope](https://www.instagram.com/mrimoscope) (where I post about lifestyle, books, and art).
+- **Email**: mridulamozid@gmail.com
+- **LinkedIn**: [Mridula Mozid](https://www.linkedin.com/in/mridula-mozid/)
+- **Facebook**: [Mridula Mozid](https://www.facebook.com/MridulaMozid.Aunkita)
+
+Feel free to reach out if you’d like to collaborate or chat about books, coding, or creativity!
+
+---
+
+## ⚡ Fun Fact
+
+- I have a *massive* TBR pile that only seems to grow. 📚
