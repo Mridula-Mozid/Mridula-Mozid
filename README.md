@@ -1,53 +1,37 @@
-# Hi there! 👋 I’m Mridula.
+Hi there! 👋 I’m Mridula
 
-I’m an enthusiastic **developer** and **designer** passionate about blending **technology** and **art** to create meaningful, user-friendly, and visually compelling projects. As a student majoring in **Information & Communication Engineering (ICE)**, I’m constantly expanding my skills and learning along the way.
+I’m a student of Information & Communication Engineering (ICE), passionate about AI, Machine Learning, and full-stack development, with a creative twist in design and content management. I love building intelligent applications, data-driven projects, and interactive web experiences.
 
-With a strong foundation in **Java development**, **content management**, and **freelance design**, I approach every project with a unique, multidisciplinary perspective—whether it's building functional applications, designing impactful branding, or tutoring students in subjects I’m passionate about.
+🚀 Skills & Interests
 
----
+Programming: Python (ML/AI, OpenCV, Data Processing), Java, C++, Dart, SQL
 
-## 🚀 What I Do
+ML & AI: Machine Learning, Computer Vision (OpenCV), Data Preprocessing, Feature Engineering
 
+Web & App Development: Flutter, Full-Stack Concepts, Cloud Computing
 
-- I’ve worked on projects like an **online banking console application** and an **e-commerce website** using Java, and I’m currently diving into **Flutter** to expand my web app development skills.
-As a **Content Management Coordinator** at **IEEE BUP WIE** and a **freelance designer**, I lead initiatives for a team of 50+ members, focusing on **content creation**, **event management**, and **branding** for small businesses. I’m passionate about blending **creativity with functionality** and **bridging the gender gap in STEM**, particularly in engineering and technology.
+Tools: VS Code, IntelliJ IDEA, MySQL Workbench, Power BI, Git
 
----
+Other Interests: UI/UX Design, Creative Content, STEM Outreach
 
-## 🌱 Learning Along the Way
+🌱 Current Learning
 
-As a student, I’m constantly evolving. Right now, I’m:
+Diving deeper into AI/ML projects and data processing pipelines.
 
-- 📚 Learning **Flutter** for web app development.
-- 🎨 Preparing to explore **Figma** to enhance my design skills.
-- 🔍 Strengthening my **full-stack development** capabilities.
+Expanding full-stack development and cloud computing skills.
 
----
+Exploring Figma for design prototyping.
 
-## 👯 Let’s Collaborate!
+📂 Selected Projects
 
-I’m always eager to collaborate on:
+AI-Powered Tic-Tac-Toe: Minimax and random strategies implemented in Python; human vs computer modes.
 
-- **Java OOP-based projects**.
-- Projects that combine **tech and design**.
-- Any opportunity to push my creative boundaries while growing my technical expertise.
+Spiral Handwriting Preprocessing: OpenCV and skeletonization pipeline for ML-ready Parkinson’s datasets.
 
-If you have experience with **Figma**, I’d love to hear from you—I'm just starting my journey there and looking for advice!
+MLM Bank (Java Console App): OOP-based banking application.
 
----
+E-commerce Website: Full-stack platform for student marketplace using Java, HTML, CSS, and JS.
 
-## 📫 Let’s Connect
+⚡ Fun Fact
 
-- **Instagram**: [@mrimoscope](https://www.instagram.com/mrimoscope) (where I post about lifestyle, books, and art).
-- **Email**: mridulamozid@gmail.com
-- **Edu Email**: mridula2254901037@student.bup.edu.bd
-- **LinkedIn**: [Mridula Mozid](https://www.linkedin.com/in/mridula-mozid/)
-- **Facebook**: [Mridula Mozid](https://www.facebook.com/MridulaMozid.Aunkita)
-
-Feel free to reach out if you’d like to collaborate or chat about books, coding, or creativity!
-
----
-
-## ⚡ Fun Fact
-
-- I have a *massive* TBR pile that only seems to grow. 📚
+I’m an avid reader and creative thinker, with a growing TBR pile that never ends. 📚
