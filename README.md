@@ -18,9 +18,7 @@ Other Interests: UI/UX Design, Creative Content, STEM Outreach
 
 Diving deeper into AI/ML projects and data processing pipelines.
 
-Expanding full-stack development and cloud computing skills.
-
-Exploring Figma for design prototyping.
+Expanding Data Science and cloud computing skills.
 
 📂 Selected Projects
 
